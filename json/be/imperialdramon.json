@@ -1,0 +1,696 @@
+{
+  "digimon": [{
+    "name": "Egg",
+    "stage": "Egg",
+    "stats": {
+        "bp": 0,
+        "hp": 0,
+        "ap": 0,
+        "critial_hit": 0
+    },
+    "images": {
+        "hatching": [
+            "DIM_2_.PNG",
+            "DIM_3_.PNG",
+            "DIM_4_.PNG",
+            "DIM_5_.PNG",
+            "DIM_6_.PNG",
+            "DIM_7_.PNG",
+            "DIM_8_.PNG",
+            "DIM_9_.PNG"
+        ]
+    }
+  },{
+    "name": "Chicomon",
+    "localized_name": "Chibomon",
+    "short_name": "chico",
+    "stage": "I",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+        "bp": 0,
+        "hp": 0,
+        "ap": 0,
+        "critial_hit": 0
+    },
+    "prevo": [{
+        "name": "Egg",
+        "requirements": [
+            "No requirements"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_54_.PNG"
+        ],
+        "default": [
+            "DIM_55_.PNG",
+            "DIM_56_.PNG"
+        ],
+        "walk": [
+            "DIM_57_.PNG"
+        ],
+        "happy": [
+            "DIM_63_.PNG"
+        ],
+        "sleep": [
+            "DIM_64_.PNG"
+        ]
+    }
+  },{
+    "name": "Chibimon",
+    "localized_name": "DemiVeemon",
+    "short_name": "chibi",
+    "stage": "II",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+        "bp": 0,
+        "hp": 0,
+        "ap": 0,
+        "critial_hit": 0
+    },
+    "prevo": [{
+        "name": "Chicomon",
+        "requirements": [
+            "No requirements"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_68_.PNG"
+        ],
+        "default": [
+            "DIM_69_.PNG",
+            "DIM_70_.PNG"
+        ],
+        "walk": [
+            "DIM_71_.PNG"
+        ],
+        "happy": [
+            "DIM_77_.PNG"
+        ],
+        "sleep": [
+            "DIM_78_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_81_.PNG"
+        ]
+    }
+  },{
+    "name": "V-mon",
+    "localized_name": "Veemon",
+    "short_name": "v",
+    "stage": "III",
+    "attribute": "Free",
+    "activity_level": "Active",
+    "stats": {
+        "bp": 4500,
+        "hp": 3500,
+        "ap": 900,
+        "critial_hit": 2
+    },
+    "prevo": [{
+        "name": "Chibimon",
+        "requirements": [
+            "No requirements"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_82_.PNG"
+        ],
+        "default": [
+            "DIM_83_.PNG",
+            "DIM_84_.PNG"
+        ],
+        "walk": [
+            "DIM_85_.PNG",
+            "DIM_86_.PNG"
+        ],
+        "run": [
+            "DIM_87_.PNG",
+            "DIM_88_.PNG"
+        ],
+        "train": [
+            "DIM_89_.PNG",
+            "DIM_90_.PNG"
+        ],
+        "happy": [
+            "DIM_91_.PNG"
+        ],
+        "sleep": [
+            "DIM_92_.PNG"
+        ],
+        "attack": [
+            "DIM_93_.PNG",
+            "DIM_94_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_95_.PNG"
+        ]
+    }
+  },{
+    "name": "XV-mon",
+    "localized_name": "ExVeemon",
+    "short_name": "xv",
+    "stage": "IV",
+    "attribute": "Free",
+    "activity_level": "Active",
+    "stats": {
+        "bp": 5000,
+        "hp": 3500,
+        "ap": 1300,
+        "critial_hit": 2
+    },
+    "prevo": [{
+        "name": "V-mon",
+        "requirements": [
+            "20+ PP",
+            "1,500+ Vital Values",
+            "10+ Battles"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_96_.PNG"
+        ],
+        "default": [
+            "DIM_97_.PNG",
+            "DIM_98_.PNG"
+        ],
+        "walk": [
+            "DIM_99_.PNG",
+            "DIM_100_.PNG"
+        ],
+        "run": [
+            "DIM_101_.PNG",
+            "DIM_102_.PNG"
+        ],
+        "train": [
+            "DIM_103_.PNG",
+            "DIM_104_.PNG"
+        ],
+        "happy": [
+            "DIM_105_.PNG"
+        ],
+        "sleep": [
+            "DIM_106_.PNG"
+        ],
+        "attack": [
+            "DIM_107_.PNG",
+            "DIM_108_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_109_.PNG"
+        ]
+    }
+  },{
+    "name": "Paildramon",
+    "localized_name": "",
+    "short_name": "paildra",
+    "stage": "V",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+        "bp": 5500,
+        "hp": 4800,
+        "ap": 1450,
+        "critial_hit": 3
+    },
+    "prevo": [{
+        "name": "XV-mon",
+        "requirements": [
+            "12+ PP",
+            "2,500+ Vital Values",
+            "15+ Battles",
+            "50%+ Win Ratio"
+        ]
+    },{
+        "name": "XV-mon",
+        "requirements": [
+            "Jogress with Stingmon"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_110_.PNG"
+        ],
+        "default": [
+            "DIM_111_.PNG",
+            "DIM_112_.PNG"
+        ],
+        "walk": [
+            "DIM_113_.PNG",
+            "DIM_114_.PNG"
+        ],
+        "run": [
+            "DIM_115_.PNG",
+            "DIM_116_.PNG"
+        ],
+        "train": [
+            "DIM_117_.PNG",
+            "DIM_118_.PNG"
+        ],
+        "happy": [
+            "DIM_119_.PNG"
+        ],
+        "sleep": [
+            "DIM_120_.PNG"
+        ],
+        "attack": [
+            "DIM_121_.PNG",
+            "DIM_122_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_123_.PNG"
+        ]
+    }
+  },{
+    "name": "Imperialdramon: Dragon Mode",
+    "localized_name": "",
+    "short_name": "imperialdra_d",
+    "stage": "VI",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+        "bp": 6800,
+        "hp": 4800,
+        "ap": 1950,
+        "critial_hit": 3
+    },
+    "prevo": [{
+        "name": "Paildramon",
+        "requirements": [
+            "20+ PP",
+            "3,500+ Vital Values",
+            "20+ Battles",
+            "50%+ Win Ratio"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_124_.PNG"
+        ],
+        "default": [
+            "DIM_125_.PNG",
+            "DIM_126_.PNG"
+        ],
+        "walk": [
+            "DIM_127_.PNG",
+            "DIM_128_.PNG"
+        ],
+        "run": [
+            "DIM_129_.PNG",
+            "DIM_130_.PNG"
+        ],
+        "train": [
+            "DIM_131_.PNG",
+            "DIM_132_.PNG"
+        ],
+        "happy": [
+            "DIM_133_.PNG"
+        ],
+        "sleep": [
+            "DIM_134_.PNG"
+        ],
+        "attack": [
+            "DIM_135_.PNG",
+            "DIM_136_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_137_.PNG"
+        ]
+    }
+  },{
+    "name": "Leafmon",
+    "localized_name": "",
+    "short_name": "leaf",
+    "stage": "I",
+    "attribute": "Free",
+    "activity_level": "Stoic",
+    "stats": {
+        "bp": 0,
+        "hp": 0,
+        "ap": 0,
+        "critial_hit": 0
+    },
+    "prevo": [{
+        "name": "Egg",
+        "requirements": [
+            "Stage 2 cleared"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_138_.PNG"
+        ],
+        "default": [
+            "DIM_139_.PNG",
+            "DIM_140_.PNG"
+        ],
+        "walk": [
+            "DIM_141_.PNG"
+        ],
+        "happy": [
+            "DIM_147_.PNG"
+        ],
+        "sleep": [
+            "DIM_148_.PNG"
+        ]
+    }
+  },{
+    "name": "Minomon",
+    "localized_name": "",
+    "short_name": "mino",
+    "stage": "II",
+    "attribute": "Free",
+    "activity_level": "Stoic",
+    "stats": {
+        "bp": 0,
+        "hp": 0,
+        "ap": 0,
+        "critial_hit": 0
+    },
+    "prevo": [{
+        "name": "Leafmon",
+        "requirements": [
+            "No requirements"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_152_.PNG"
+        ],
+        "default": [
+            "DIM_153_.PNG",
+            "DIM_154_.PNG"
+        ],
+        "walk": [
+            "DIM_155_.PNG"
+        ],
+        "happy": [
+            "DIM_161_.PNG"
+        ],
+        "sleep": [
+            "DIM_162_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_165_.PNG"
+        ]
+    }
+  },{
+    "name": "Wormmon",
+    "localized_name": "",
+    "short_name": "worm",
+    "stage": "III",
+    "attribute": "Free",
+    "activity_level": "Active",
+    "stats": {
+        "bp": 3900,
+        "hp": 3000,
+        "ap": 1200,
+        "critial_hit": 2
+    },
+    "prevo": [{
+        "name": "Minomon",
+        "requirements": [
+            "No requirements"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_166_.PNG"
+        ],
+        "default": [
+            "DIM_167_.PNG",
+            "DIM_168_.PNG"
+        ],
+        "walk": [
+            "DIM_169_.PNG",
+            "DIM_170_.PNG"
+        ],
+        "run": [
+            "DIM_171_.PNG",
+            "DIM_172_.PNG"
+        ],
+        "train": [
+            "DIM_173_.PNG",
+            "DIM_174_.PNG"
+        ],
+        "happy": [
+            "DIM_175_.PNG"
+        ],
+        "sleep": [
+            "DIM_176_.PNG"
+        ],
+        "attack": [
+            "DIM_177_.PNG",
+            "DIM_178_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_179_.PNG"
+        ]
+    }
+  },{
+    "name": "Stingmon",
+    "localized_name": "",
+    "short_name": "sting",
+    "stage": "IV",
+    "attribute": "Free",
+    "activity_level": "Active",
+    "stats": {
+        "bp": 5100,
+        "hp": 3800,
+        "ap": 1200,
+        "critial_hit": 2
+    },
+    "prevo": [{
+        "name": "Wormmon",
+        "requirements": [
+            "Stage 4 Cleared",
+            "20+ PP",
+            "1,500+ Vital Values",
+            "10+ Battles"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_180_.PNG"
+        ],
+        "default": [
+            "DIM_181_.PNG",
+            "DIM_182_.PNG"
+        ],
+        "walk": [
+            "DIM_183_.PNG",
+            "DIM_184_.PNG"
+        ],
+        "run": [
+            "DIM_185_.PNG",
+            "DIM_186_.PNG"
+        ],
+        "train": [
+            "DIM_187_.PNG",
+            "DIM_188_.PNG"
+        ],
+        "happy": [
+            "DIM_189_.PNG"
+        ],
+        "sleep": [
+            "DIM_190_.PNG"
+        ],
+        "attack": [
+            "DIM_191_.PNG",
+            "DIM_192_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_193_.PNG"
+        ]
+    }
+  },{
+    "name": "Dinobeemon",
+    "localized_name": "",
+    "short_name": "dinobee",
+    "stage": "V",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+        "bp": 5900,
+        "hp": 4900,
+        "ap": 1300,
+        "critial_hit": 3
+    },
+    "prevo": [{
+        "name": "Stingmon",
+        "requirements": [
+            "Stage 8 Cleared",
+            "12 PP",
+            "2,500+ Vital Values",
+            "50%+ Win Ratio"
+        ]
+    },{
+        "name": "Stingmon",
+        "requirements": [
+            "Jogress with XV-mon"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_194_.PNG"
+        ],
+        "default": [
+            "DIM_195_.PNG",
+            "DIM_196_.PNG"
+        ],
+        "walk": [
+            "DIM_197_.PNG",
+            "DIM_198_.PNG"
+        ],
+        "run": [
+            "DIM_199_.PNG",
+            "DIM_200_.PNG"
+        ],
+        "train": [
+            "DIM_201_.PNG",
+            "DIM_202_.PNG"
+        ],
+        "happy": [
+            "DIM_203_.PNG"
+        ],
+        "sleep": [
+            "DIM_204_.PNG"
+        ],
+        "attack": [
+            "DIM_205_.PNG",
+            "DIM_206_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_207_.PNG"
+        ]
+    }
+  },{
+    "name": "Imperialdramon: Fighter Mode",
+    "localized_name": "",
+    "short_name": "imperialdra_f",
+    "stage": "VI",
+    "attribute": "Free",
+    "activity_level": "Stoic",
+    "stats": {
+        "bp": 6000,
+        "hp": 5800,
+        "ap": 2000,
+        "critial_hit": 1
+    },
+    "prevo": [{
+        "name": "Dinobeemon",
+        "requirements": [
+            "Stage 10 cleared",
+            "20+ PP",
+            "3,500+ Vital Values",
+            "20+ Battles",
+            "50%+ Win Ratio"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_208_.PNG"
+        ],
+        "default": [
+            "DIM_209_.PNG",
+            "DIM_210_.PNG"
+        ],
+        "walk": [
+            "DIM_211_.PNG",
+            "DIM_212_.PNG"
+        ],
+        "run": [
+            "DIM_213_.PNG",
+            "DIM_214_.PNG"
+        ],
+        "train": [
+            "DIM_215_.PNG",
+            "DIM_216_.PNG"
+        ],
+        "happy": [
+            "DIM_217_.PNG"
+        ],
+        "sleep": [
+            "DIM_218_.PNG"
+        ],
+        "attack": [
+            "DIM_219_.PNG",
+            "DIM_220_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_221_.PNG"
+        ]
+    }
+  },{
+    "name": "Imperialdramon: Paladin Mode",
+    "localized_name": "",
+    "short_name": "",
+    "stage": "VI",
+    "attribute": "Vaccine",
+    "activity_level": "Stoic",
+    "stats": {
+        "bp": 6400,
+        "hp": 5500,
+        "ap": 2200,
+        "critial_hit": 1
+    },
+    "prevo": [{
+        "name": "Paildramon",
+        "requirements": [
+            "Stage 12 cleared",
+            "15+ PP",
+            "4,000+ Vital Values",
+            "20+ Battles",
+            "60%+ Win Ratio"
+        ]
+    },{
+        "name": "Dinobeemon",
+        "requirements": [
+            "Stage 12 cleared",
+            "15+ PP",
+            "4,000+ Vital Values",
+            "20+ Battles",
+            "60%+ Win Ratio"
+        ]
+    }],
+    "images": {
+        "name": [
+            "DIM_222_.PNG"
+        ],
+        "default": [
+            "DIM_223_.PNG",
+            "DIM_224_.PNG"
+        ],
+        "walk": [
+            "DIM_225_.PNG",
+            "DIM_226_.PNG"
+        ],
+        "run": [
+            "DIM_227_.PNG",
+            "DIM_228_.PNG"
+        ],
+        "train": [
+            "DIM_229_.PNG",
+            "DIM_230_.PNG"
+        ],
+        "happy": [
+            "DIM_231_.PNG"
+        ],
+        "sleep": [
+            "DIM_232_.PNG"
+        ],
+        "attack": [
+            "DIM_233_.PNG",
+            "DIM_234_.PNG"
+        ],
+        "wallpaper": [
+            "DIM_235_.PNG"
+        ]
+    }
+  }]
+}

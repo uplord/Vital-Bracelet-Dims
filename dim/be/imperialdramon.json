@@ -1,0 +1,272 @@
+{
+  "digimon": [{
+    "name": "Egg",
+    "stage": "Egg",
+    "stats": {
+      "bp": 0,
+      "hp": 0,
+      "ap": 0,
+      "critial_hit": 0
+    },
+    "images": {
+      "hatching": [
+        "DIM_2_.PNG",
+        "DIM_3_.PNG",
+        "DIM_4_.PNG",
+        "DIM_5_.PNG",
+        "DIM_6_.PNG",
+        "DIM_7_.PNG",
+        "DIM_8_.PNG",
+        "DIM_9_.PNG"
+      ]
+    }
+  },{
+    "name": "Chicomon",
+    "localized_name": "Chibomon",
+    "short_name": "chico",
+    "stage": "I",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+      "bp": 0,
+      "hp": 0,
+      "ap": 0,
+      "critial_hit": 0
+    },
+    "prevo": [{
+      "name": "Egg",
+      "requirements": {
+        "details": [
+          "No requirements"
+        ]
+      }
+    }]
+  },{
+    "name": "Chibimon",
+    "localized_name": "DemiVeemon",
+    "short_name": "chibi",
+    "stage": "II",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+      "bp": 0,
+      "hp": 0,
+      "ap": 0,
+      "critial_hit": 0
+    },
+    "prevo": [{
+      "name": "Chicomon",
+      "requirements": {
+        "details": [
+          "No requirements"
+        ]
+      }
+    }]
+  },{
+    "name": "V-mon",
+    "localized_name": "Veemon",
+    "short_name": "v",
+    "stage": "III",
+    "attribute": "Free",
+    "activity_level": "Active",
+    "stats": {
+      "bp": 4500,
+      "hp": 3500,
+      "ap": 900,
+      "critial_hit": 2
+    },
+    "prevo": [{
+      "name": "Chibimon",
+      "requirements": {
+        "details": [
+          "No requirements"
+        ]
+      }
+    }]
+  },{
+    "name": "XV-mon",
+    "localized_name": "ExVeemon",
+    "short_name": "xv",
+    "stage": "IV",
+    "attribute": "Free",
+    "activity_level": "Active",
+    "stats": {
+      "bp": 5000,
+      "hp": 3500,
+      "ap": 1300,
+      "critial_hit": 2
+    },
+    "prevo": [{
+      "name": "V-mon",
+      "requirements": {
+        "details": [
+          "20+ PP",
+          "1500+ Vital Values",
+          "10+ Battles"
+        ]
+      }
+    }]
+  },{
+    "name": "Paildramon",
+    "localized_name": "",
+    "short_name": "paildra",
+    "stage": "V",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+      "bp": 5500,
+      "hp": 4800,
+      "ap": 1450,
+      "critial_hit": 3
+    },
+    "prevo": [{
+      "name": "XV-mon",
+      "requirements": {
+        "details": [
+          "12+ PP",
+          "2500+ Vital Values",
+          "15+ Battles",
+          "50%+ Win Ratio"
+        ]
+      }
+    },{
+      "name": "XV-mon",
+      "requirements": {
+        "details": [
+          "Jogress with Stingmon"
+        ]
+      }
+    }]
+  },{
+    "name": "Imperialdramon: Dragon Mode",
+    "localized_name": "",
+    "short_name": "imperialdra_d",
+    "stage": "VI",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+      "bp": 6800,
+      "hp": 4800,
+      "ap": 1950,
+      "critial_hit": 3
+    },
+    "prevo": [{
+      "name": "Paildramon",
+      "requirements": {
+        "details": [
+          "20+ PP",
+          "3500+ Vital Values",
+          "20+ Battles",
+          "50%+ Win Ratio"
+        ]
+      }
+    }]
+  },{
+    "name": "Leafmon",
+    "localized_name": "",
+    "short_name": "leaf",
+    "stage": "I",
+    "attribute": "Free",
+    "activity_level": "Stoic",
+    "stats": {
+      "bp": 0,
+      "hp": 0,
+      "ap": 0,
+      "critial_hit": 0
+    },
+    "prevo": [{
+      "name": "Egg",
+      "requirements": {
+        "details": [
+          "Clear Adventure Mode Stage 2"
+        ]
+      }
+    }]
+  },{
+    "name": "Minomon",
+    "localized_name": "",
+    "short_name": "",
+    "stage": "II",
+    "attribute": "Free",
+    "activity_level": "Stoic",
+    "stats": {
+      "bp": 0,
+      "hp": 0,
+      "ap": 0,
+      "critial_hit": 0
+    },
+    "prevo": [{
+      "name": "Leafmon",
+      "requirements": {
+        "details": [
+          "No requirements"
+        ]
+      }
+    }]
+  },{
+    "name": "Wormmon",
+    "localized_name": "",
+    "short_name": "",
+    "stage": "III",
+    "attribute": "Free",
+    "activity_level": "Active",
+    "stats": {
+      "bp": 3900,
+      "hp": 3000,
+      "ap": 1200,
+      "critial_hit": 2
+    }
+  },{
+    "name": "Stingmon",
+    "localized_name": "",
+    "short_name": "",
+    "stage": "IV",
+    "attribute": "Free",
+    "activity_level": "Active",
+    "stats": {
+      "bp": 5100,
+      "hp": 3800,
+      "ap": 1200,
+      "critial_hit": 2
+    }
+  },{
+    "name": "Dinobeemon",
+    "localized_name": "",
+    "short_name": "",
+    "stage": "V",
+    "attribute": "Free",
+    "activity_level": "Normal",
+    "stats": {
+      "bp": 5900,
+      "hp": 4900,
+      "ap": 1300,
+      "critial_hit": 3
+    }
+  },{
+    "name": "Imperialdramon: Paladin Mode",
+    "localized_name": "",
+    "short_name": "",
+    "stage": "VI",
+    "attribute": "Vaccine",
+    "activity_level": "Stoic",
+    "stats": {
+      "bp": 6400,
+      "hp": 5500,
+      "ap": 2200,
+      "critial_hit": 1
+    }
+  },{
+    "name": "Imperialdramon: Fighter Mode",
+    "localized_name": "",
+    "short_name": "",
+    "stage": "VI",
+    "attribute": "Free",
+    "activity_level": "Stoic",
+    "stats": {
+      "bp": 6000,
+      "hp": 5800,
+      "ap": 2000,
+      "critial_hit": 1
+    }
+  }]
+}
